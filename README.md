@@ -1,6 +1,8 @@
 # One-Mix-3S-Android
 One-Mix 3 &amp; 3s Full Working on Android9 Pie(BlissOS11.11)  
 
+This project made by south korea then "readme.txt"'s language is korean.
+
 ## The Install:
 
 1. Download Link File
@@ -42,3 +44,11 @@ One-Mix 3 &amp; 3s Full Working on Android9 Pie(BlissOS11.11)
 
 5. reboot android system and if you see change boot logo then you success patch.
    
+## OS Status:
+
+   - Android Info :
+![android](./Images/onemix3s_android1.jpg)
+
+   - CPU Z :
+![android](./Images/onemix3s_android2.jpg)
+![android](./Images/onemix3s_android3.jpg)
