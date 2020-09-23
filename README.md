@@ -10,27 +10,36 @@ https://sourceforge.net/projects/blissos-x86/files/Official/bleeding_edge/Generi
 (※ You do not recieve 20200803 becouse not working sleep mode)
 
 2. Settup Download File. You must be set "YES" when choose system read/write.
-   ※ Bliss OS XDA
+
+   
+- Bliss OS XDA
+
    https://forum.xda-developers.com/bliss-roms/bliss-roms-development/bliss-os-pie-beta-preview-t3855917
-   ※ Bliss OS Install document
+   
+- Bliss OS Install document
+
    https://docs.blissroms.com/Bliss%20OS/installation-guide/
-   ※ Bliss OS Install Guide in Youtube
+   
+- Bliss OS Install Guide in Youtube
+
    https://www.youtube.com/watch?v=MmGiCqFvYEQ
 
 3. Download UploadFile and copy USB Drive.
 
+
 4. connect your USB Drive and running patch script.
-4.1. run "Android Terminal Emulator"
-   $SU
-   Rooting Request -> You select "Remaember choice foreve", click "Allow"
-   #df -h 
-   check your USB Drive mount point.
-   ex) /mnt/media_rw/mountname
-   move mount point
-   #cd /mnt/media_rw/mountname/BlissOSV11.11_for_onemix3s (tip : if you make some sentense then "tap key" make auto sentense)
-   #sh ./patch.sh
-   #exit
-   $exit 
+
+- run "Android Terminal Emulator"
+
+  * su
+  * Rooting Request -> You select "Remaember choice foreve", click "Allow"
+  * df -h 
+  * check your USB Drive mount point.
+  * ex) /mnt/media_rw/mountname
+  * move mount point
+  * cd /mnt/media_rw/mountname/BlissOSV11.11_for_onemix3s (tip : if you make some sentense then "tap key" make auto sentense)
+  * sh ./patch.sh
+  * exit
    
 5. reboot android system and if you see change boot logo then you success patch.
    
