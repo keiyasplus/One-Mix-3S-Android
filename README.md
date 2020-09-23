@@ -52,3 +52,32 @@ This project made by south korea then "readme.txt"'s language is korean.
    - CPU Z :
 ![android](./Images/onemix3s_android2.jpg)
 ![android](./Images/onemix3s_android3.jpg)
+
+
+## Working:
+
+   1. Wifi ok 
+   2. Sleep Mode ok
+      - sleep by timeout (power lamp blue)
+      - sleep by power menu (power lamp yellow and blingking)
+   3. bluetooth ok 
+   4. sound ok 
+   5. touch ok 
+      - touch by hand ok 
+      - touch by pen -> working similar touch pad 
+   6. sd card mount at /mnt/sdcard_ext
+      - only working by script on boot, not auto mount.
+   7. windows internal disk(ntfs) mount
+      - only working by script on boot, not auto mount.
+      - mount point is your windows drive label name. (ex) if your c drive name is "c_drive" then mount point is /mnt/c_drive)
+      
+## troubleshooting:
+  - if your window drive or sd card drive not working then you run script :
+   - run "Android Terminal Emulator"
+     * su
+     * sh /etc/ntfs.sh
+     
+ ## tip:
+   - ctrl+alt+back space -> back butten
+   - windows key -> home button
+   - alt+tab -> hamburger button
