@@ -34,8 +34,7 @@ https://sourceforge.net/projects/blissos-x86/files/Official/bleeding_edge/Generi
   * su
   * Rooting Request -> You select "Remaember choice foreve", click "Allow"
   * df -h 
-  * check your USB Drive mount point.
-  * ex) /mnt/media_rw/mountname
+  * check your USB Drive mount point.  -> ex) /mnt/media_rw/mountname
   * move mount point
   * cd /mnt/media_rw/mountname/BlissOSV11.11_for_onemix3s (tip : if you make some sentense then "tap key" make auto sentense)
   * sh ./patch.sh
