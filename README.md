@@ -53,6 +53,10 @@ This project made by south korea then "readme.txt"'s language is korean.
 ![android](./Images/onemix3s_android2.jpg)
 ![android](./Images/onemix3s_android3.jpg)
 
+   - running on one mix 3 and one mix 3s:
+![android](./Images/onemix3s_android4.jpg)
+![android](./Images/onemix3s_android5.jpg)
+![android](./Images/onemix3s_android6.jpg)
 
 ## Working:
 
