@@ -3,7 +3,7 @@ One-Mix 3 &amp; 3s Full Working on Android9 Pie(BlissOS11.11)
 
 This project made from south korea then "readme.txt"'s language is korean.
 
-## Update for sleep button :
+## Update for sleep button (20201109) :
 
 - Choose your button type
 
