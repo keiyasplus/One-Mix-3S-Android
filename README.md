@@ -10,10 +10,10 @@ This project made from south korea then "readme.txt"'s language is korean.
      * BlissOSV11.11_for_onemix3s : Power Button click -> Power menu 
  
      * BlissOSV11.11_for_onemix3s_fix_sleep_button : Power Button click -> Sleep
+     
        ※ if you want Power menu then you will try long press power button
+       
        (I'll recommend to try shot press + long press power button.)
-
-
 
 
 ## The Install:
