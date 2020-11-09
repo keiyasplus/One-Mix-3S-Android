@@ -3,6 +3,19 @@ One-Mix 3 &amp; 3s Full Working on Android9 Pie(BlissOS11.11)
 
 This project made from south korea then "readme.txt"'s language is korean.
 
+## Update for sleep button :
+
+- Choose your button type
+
+     * BlissOSV11.11_for_onemix3s : Power Button click -> Power menu 
+ 
+     * BlissOSV11.11_for_onemix3s_fix_sleep_button : Power Button click -> Sleep
+       ※ if you want Power menu then you will try long press power button
+       (I'll recommend to try shot press + long press power button.)
+
+
+
+
 ## The Install:
 
 1. Download Link File
